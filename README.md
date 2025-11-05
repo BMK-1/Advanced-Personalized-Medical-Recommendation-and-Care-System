@@ -1,2 +1,8 @@
-# Advanced-Personalized-Medical-Recommendation-and-Care-System
-An Advanced Personalized Medical Recommendation System uses AI to analyze patient data like symptoms, history, and lifestyle to predict diseases and suggest tailored treatments, including medicines, diet, and exercise. It improves diagnosis accuracy and patient care through real-time, personalized recommendations.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh

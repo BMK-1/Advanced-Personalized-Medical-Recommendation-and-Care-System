@@ -1,0 +1,60 @@
+.symptom-checker-container {
+  padding: 20px;
+  text-align: center;
+}
+
+.symptom-checker-container h1 {
+  color: #FF5722;
+  font-size: 2.5em;
+}
+
+.symptom-checker-container p {
+  font-size: 1.2em;
+  color: #555;
+}
+
+.symptom-input {
+  width: 80%;
+  height: 100px;
+  margin: 20px 0;
+  padding: 10px;
+  font-size: 1em;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.submit-button {
+  padding: 10px 20px;
+  font-size: 1em;
+  color: white;
+  background-color: #FF5722;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.submit-button:hover {
+  background-color: #E64A19;
+}
+
+.recommendations, .invalid-symptoms {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.recommendations h2, .invalid-symptoms h2 {
+  color: #FF5722;
+}
+
+.recommendations ul, .invalid-symptoms ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.recommendations li, .invalid-symptoms li {
+  background-color: #f9f9f9;
+  margin: 5px 0;
+  padding: 10px;
+  border-radius: 5px;
+}

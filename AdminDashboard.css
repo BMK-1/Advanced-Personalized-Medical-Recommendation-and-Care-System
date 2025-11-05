@@ -1,0 +1,30 @@
+.admin-dashboard-container {
+  padding: 20px;
+  text-align: center;
+}
+
+.admin-dashboard-container h1 {
+  color: #F44336;
+  font-size: 2.5em;
+}
+
+.admin-dashboard-container p {
+  font-size: 1.2em;
+  color: #555;
+}
+
+.user-list {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.user-item {
+  background-color: #f9f9f9;
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.user-item h2 {
+  color: #F44336;
+}
